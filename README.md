@@ -22,17 +22,17 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ---
 ## Como baixar o projeto 
 
-...bash
+```bash
   # Clonar o repositório
   $ git clone https://github.com/brunoOGA/be-the-hero.git
   
   # Entrar no diretório
   $ cd be-the hero
-...
+```
 
 ### Backend
 
-...bash
+```bash
   
   # Entrar no diretório
   $ cd backend
@@ -43,11 +43,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   # Iniciar o backend
   $ yarn start
   
-...
+```
 
 ### Frontend
 
-...bash
+```bash
   
   # Entrar no diretório
   $ cd frontend
@@ -58,11 +58,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   # Iniciar o frontend
   $ yarn start
   
-...
+```
 
 ### Mobile
 
-...bash
+```bash
   
   # Entrar no diretório
   $ cd mobile
@@ -73,7 +73,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   # Iniciar o frontend
   $ yarn start
   
-...
+```
 
 ---
 ##Screenshots

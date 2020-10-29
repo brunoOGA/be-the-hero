@@ -77,6 +77,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 ##Screenshots
-<img src="https://ik.imagekit.io/nfoyn1wc6g/mobile1_oddguaSPGc.png">
-<img src="https://ik.imagekit.io/nfoyn1wc6g/mobile2_z2g9em3wGbS.png">
+<p align="middle">
+  <img src="https://ik.imagekit.io/nfoyn1wc6g/mobile1_oddguaSPGc.png" width="100" />
+  <img src="https://ik.imagekit.io/nfoyn1wc6g/mobile2_z2g9em3wGbS.png" width="100" /> 
+</p>
 
